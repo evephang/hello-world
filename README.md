@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+
+climbing the mountain, and pick a star.
